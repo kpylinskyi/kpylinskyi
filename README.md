@@ -3,81 +3,41 @@
 
 **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/kyrylo-pylinskyi) | **GitHub:** [GitHub](https://github.com/kyrylo-pylinskyi)
 
----
-
 ## **Summary**
-
-Experienced Full Stack and Backend Developer with expertise in Python, JavaScript, C#, and C++. Specializing in building scalable web and desktop applications, databases, and integration systems. Proficient in SQL databases (PostgreSQL, MS SQL), Docker, and Linux environments. Demonstrated ability to design, develop, and debug complex applications, with over 3 years of experience in agile teams and DevOps practices. Skilled in RESTful API development, web services, and deploying containerized applications.
-
----
+Experienced Backend Developer with a solid background in C++ programming, Linux development, and networking protocols. Proficient in designing and optimizing scalable software solutions, with hands-on experience in TCP/IP communication, multithreading, and RESTful API development. Passionate about solving complex problems, developing high-performance systems, and eager to contribute to innovative solutions.
 
 ## **Experience**
-
-### **Full Stack Developer** — [*Vean*](https://vean-tattoo.com/en/)  
+#### **Full Stack Developer** — [*Vean*](https://vean-tattoo.com/en/)  
 *Krakow* | *May 2024 - Present*
+- Developed and maintained a CRM system, focusing on system scalability and performance.
+- Implemented new features, ensured system integration, and optimized backend services for user management.
+- Utilized **Python** and **PostgreSQL** to streamline data handling and backend processes.
+- Collaborated with front-end developers to create intuitive and responsive web interfaces.
 
-- Developing and maintaining CRM system using Python, React, PostgreSQL, and GraphQL.
-- Collaborating with cross-functional teams to design, develop, and deploy new features.
-- Ensuring code quality and best practices through code reviews and automated testing.
-
-### **Backend Developer** — [*E80 Group*](https://www.e80group.com/en/)
+#### **Backend Developer** — [*E80 Group*](https://www.e80group.com/en/)
 *Krakow* | *April 2023 - April 2024*
 
-- Built and optimized backend services using C#, C++, and MS SQL for industrial automation systems.
-- Deployed services in Linux environments, leveraging Docker for containerized deployments.
-- Improved system performance by optimizing database queries and handling large data sets efficiently.
+- Designed and developed high-performance **C++** services for optimizing a navigation system for automated warehouse robots.
+- Developed a **TCP/IP communication module** to ensure seamless integration between Warehouse Management Systems (WMS).
+- Implemented and debugged multithreaded C++ applications to enhance the speed and reliability of real-time systems.
+- Worked in **Linux** environment.
 
-### **Backend Developer** — [*MNK Group*](https://www.maxi.parts/)  
+#### **Backend Developer** — [*MNK Group*](https://www.maxi.parts/)  
 *Lublin* | *January 2021 - April 2023*
 
-- Worked on backend development using Python and Django to build RESTful APIs.
-- Integrated React for front-end development in a collaborative full-stack environment.
-- Managed PostgreSQL databases and optimized them for large-scale applications.
-
----
+- Developed a distributed module for updating a database by automatically collecting and synchronizing data from multiple remote internet sources in real time.
+- Developed and maintained backend services using **Django** and **Python**, building RESTful APIs for smooth integration with frontend systems.
+- Managed and optimized **PostgreSQL** databases for large-scale applications, enhancing data retrieval times by 30%.
+- Worked closely with cross-functional teams to ensure code quality and implement software best practices.
 
 ## **Education**
 
-### **Bachelor of Science in Computer Science and Engineering** — *WSPA*  
-*Lublin* | *October 2019 - February 2023*
-
-- Relevant Courses: Software Engineering, Database Systems, Algorithms, Operating Systems, Distributed Computing.
-
----
+#### **Bachelor of Engineering in Computer Science** — *WSPA*  
+*Lublin, Poland* | *October 2019 - February 2023*
 
 ## **Skills**
 
-- **Programming Languages:** Python, JavaScript, C, C#, C++
-- **Frameworks & Libraries:** Django, React, Node.js, .NET, STL
-- **Database Management:** PostgreSQL, MySQL, MS SQL, Oracle
-- **Web Services & APIs:** REST, SOAP, GraphQL
-- **Tools & Platforms:** Docker, Kubernetes, Git, Jenkins, Linux
-- **Web Technologies:** XML, XPATH, XSLT
-- **Agile Methodologies:** Scrum, DevOps
-
----
-
-## **Projects**
-
-### **Book Management System**  
-*GitHub Repository:* [Book Management System](https://github.com/kyrylo-pylinskyi/book-management-system)  
-
-*Description:* A full-stack web application designed for managing books and authors with React frontend and Django REST framework backend. The application uses PostgreSQL for data management and is containerized with Docker for easy deployment.
-
-*Technologies:* Python, Django REST Framework, React, PostgreSQL, Docker
-
----
-
-### **Out of Office Solution**  
-*GitHub Repository:* [OutOfOffice](https://github.com/kyrylo-pylinskyi/OutOfOffice)  
-
-*Description:* The "Out of Office" solution is a microservice-based application that manages employee leave requests, approvals, and project assignments. It uses Docker for containerization and Kubernetes for orchestration. Web services (REST) were implemented for communication between services, with RabbitMQ for messaging. 
-
-*Technologies:* ASP.NET Core, Microservices, RabbitMQ, Docker, Kubernetes, SQL Server
-
----
-
-## **Languages**
-
-- **Polish:** B2
-- **English:** B2 with strong command of technical terminology
+- **Languages:** C++ (including C++17), Python, SQL, Django
+- **Technologies:** Linux, TCP/IP, REST APIs, Docker, PostgreSQL
+- **Tools:** CMake, Make, Git, Docker
+- **Concepts:** Multithreading, Data Structures, Algorithms, TCP/IP Networking, Software Design Patterns
